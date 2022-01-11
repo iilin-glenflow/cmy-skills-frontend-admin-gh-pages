@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/css/main.cbbc259a.chunk.css",
-    "main.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/main.276d7d54.chunk.js",
+    "main.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/main.e33e1943.chunk.js",
     "runtime-main.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/runtime-main.30b76c75.js",
-    "static/js/2.72d5d8d0.chunk.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/2.72d5d8d0.chunk.js",
+    "static/js/2.7294fe06.chunk.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/2.7294fe06.chunk.js",
     "static/js/3.6ea5181e.chunk.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/3.6ea5181e.chunk.js",
     "index.html": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/index.html",
-    "static/js/2.72d5d8d0.chunk.js.LICENSE.txt": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/2.72d5d8d0.chunk.js.LICENSE.txt",
+    "static/js/2.7294fe06.chunk.js.LICENSE.txt": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/2.7294fe06.chunk.js.LICENSE.txt",
     "static/media/all.scss": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Regular.a2580627.woff2",
     "static/media/welcome_page.d6405601.jpg": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/welcome_page.d6405601.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.30b76c75.js",
-    "static/js/2.72d5d8d0.chunk.js",
+    "static/js/2.7294fe06.chunk.js",
     "static/css/main.cbbc259a.chunk.css",
-    "static/js/main.276d7d54.chunk.js"
+    "static/js/main.e33e1943.chunk.js"
   ]
 }
