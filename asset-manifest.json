@@ -1,19 +1,34 @@
 {
   "files": {
-    "main.css": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/css/main.cbbc259a.chunk.css",
-    "main.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/main.4ef1bec5.chunk.js",
-    "runtime-main.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/runtime-main.30b76c75.js",
-    "static/js/2.7294fe06.chunk.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/2.7294fe06.chunk.js",
-    "static/js/3.6ea5181e.chunk.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/3.6ea5181e.chunk.js",
-    "index.html": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/index.html",
-    "static/js/2.7294fe06.chunk.js.LICENSE.txt": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/2.7294fe06.chunk.js.LICENSE.txt",
-    "static/media/all.scss": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Regular.a2580627.woff2",
-    "static/media/welcome_page.d6405601.jpg": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/welcome_page.d6405601.jpg"
+    "main.css": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/css/main.d633dc40.css",
+    "main.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/main.8f0b8f7e.js",
+    "static/js/27.61895497.chunk.js": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/js/27.61895497.chunk.js",
+    "static/media/Lato-Semibold.ttf": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Semibold.7a231abc54c0ff4428f0.ttf",
+    "static/media/Lato-Heavy.ttf": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Heavy.f4652afb78c5c4018f09.ttf",
+    "static/media/Lato-Medium.ttf": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Medium.c030713c9ca1d7d892aa.ttf",
+    "static/media/Lato-Semibold.woff": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Semibold.25a50b9ffcd8d28ae81a.woff",
+    "static/media/Lato-Heavy.woff": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Heavy.0246a449f9ba982bdb06.woff",
+    "static/media/Lato-Medium.woff": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Medium.253a82031e4f73846594.woff",
+    "static/media/Lato-Semibold.woff2": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Semibold.77b3893e4f5674894658.woff2",
+    "static/media/Lato-Heavy.woff2": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Heavy.7f83de92c00058dcd829.woff2",
+    "static/media/Lato-Medium.woff2": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Medium.c0db01b37009447f359c.woff2",
+    "static/media/Roboto-Medium.ttf": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Medium.ef677e217f2009c16854.ttf",
+    "static/media/Roboto-Regular.ttf": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Regular.25e40da956314b12d333.ttf",
+    "static/media/Roboto-Bold.ttf": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Bold.5e9f6556d3c0bf6230f0.ttf",
+    "static/media/Roboto-Medium.woff": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Medium.b14ca2d2b289afceb0b0.woff",
+    "static/media/Roboto-Bold.woff": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Bold.3f2cbde6b72e8d05669f.woff",
+    "static/media/Roboto-Regular.woff": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Regular.31012f9b3e3da44f87e8.woff",
+    "static/media/Lato-Bold.ttf": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Bold.cedaf50ff9735bcc4691.ttf",
+    "static/media/Roboto-Medium.woff2": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Medium.fc0337b9cf1cce2e6e1e.woff2",
+    "static/media/Roboto-Bold.woff2": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Bold.6cd35edfbc0d7a417131.woff2",
+    "static/media/Roboto-Regular.woff2": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Roboto-Regular.a25806274237d06e00a6.woff2",
+    "static/media/welcome_page.jpg": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/welcome_page.d6405601167039b4583d.jpg",
+    "static/media/Lato-Bold.woff": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Bold.ba3a83adcb94357fc42f.woff",
+    "static/media/Lato-Bold.woff2": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/static/media/Lato-Bold.ea8a923ec6d3ea7cf7bc.woff2",
+    "index.html": "https://iilin-glenflow.github.io/cmy-skills-frontend-admin-gh-pages/index.html"
   },
   "entrypoints": [
-    "static/js/runtime-main.30b76c75.js",
-    "static/js/2.7294fe06.chunk.js",
-    "static/css/main.cbbc259a.chunk.css",
-    "static/js/main.4ef1bec5.chunk.js"
+    "static/css/main.d633dc40.css",
+    "static/js/main.8f0b8f7e.js"
   ]
 }
